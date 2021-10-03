@@ -1,0 +1,4 @@
+com/mranuran/clipboardmanager/BuildConfig.java
+ com.mranuran.clipboardmanager.BuildConfig
+com/mranuran/clipboardmanager/ClipboardManagerPlugin.java
+ com.mranuran.clipboardmanager.ClipboardManagerPlugin
